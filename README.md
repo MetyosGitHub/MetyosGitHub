@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Metyo
 - 👀 I’m interested in programming, video games, movies and music.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and developing my first game in Unity.
 - 📫 How to reach me E-mail: dimiturgramenov@gmail.com
 
 <!---
